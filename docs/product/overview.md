@@ -21,3 +21,5 @@ A simple and centralized way to understand and control personal finances with cl
 - Multi-format support (PDF, XLSX)
 - Investment tracking
 - Smart insights and recommendations
+- User authentication and authorization  
+- Data privacy and compliance (e.g., LGPD)  

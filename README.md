@@ -26,3 +26,8 @@ See `/docs` for product and technical documentation.
 
 ## 📌 Status
 In early development (MVP phase)
+
+## 🗒️ Modeling Notes
+
+- Transactions may exist without a category in the MVP
+- Category assignment can be optional and updated later
